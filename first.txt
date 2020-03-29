@@ -8,3 +8,6 @@ now=`date +%Y%m%d%H%M%S`;logpath=~/scriptlogs/script_${now}.txt ;script ${logpat
 
 git add
 git commit
+
+
+なんかスピード半端ないねんけど
