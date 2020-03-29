@@ -11,3 +11,6 @@ git commit
 
 
 なんかスピード半端ないねんけど
+
+
+・git status
