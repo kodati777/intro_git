@@ -1,2 +1,10 @@
 Gitの練習をしていきます。
 基本的なワークlフローを学びます。
+
+mkdir -p /Users/kodati777/scriptlogs/
+
+ログを残す方法
+now=`date +%Y%m%d%H%M%S`;logpath=~/scriptlogs/script_${now}.txt ;script ${logpath}
+
+git add
+git commit
